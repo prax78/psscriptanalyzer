@@ -1,18 +1,43 @@
 {
   "name": "psscriptanalyzer",
-  "displayName": "psscriptanalyzer",
+  "displayName": "PSScriptAnalyzer for VS Code",
   "description": "A lightweight VS Code extension for deep static code analysis and quality reporting of PowerShell scripts.",
+  "publisher": "YOUR_PUBLISHER_ID",
   "version": "0.0.1",
+  "icon": "ps.png",
+  "author": {
+    "name": "Prakash",
+    "email": "pr_prakash78@outlook.com",
+    "url": "https://prakash78blog.wordpress.com/"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
   },
+  "keywords": [
+    "powershell",
+    "ps1",
+    "lint",
+    "analysis",
+    "PSScriptAnalyzer",
+    "code quality"
+  ],
   "categories": [
-    "Other"
+    "Linters",
+    "Programming Languages"
   ],
   "activationEvents": [
     "onLanguage:powershell"
   ],
   "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prax78/psscriptanalyzer"
+  },
+  "bugs": {
+    "url": "https://github.com/prax78/psscriptanalyzer/issues"
+  },
+  "homepage": "https://prakash78blog.wordpress.com/",
   "contributes": {
     "commands": []
   },

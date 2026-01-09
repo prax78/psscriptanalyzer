@@ -1,3 +1,4 @@
+![Installs](https://img.shields.io/visual-studio-marketplace/i/prakash78blog.psscriptanalyzer)
 # PSScriptAnalyzer for VS Code
 
 **Maintain high-quality, secure, and idiomatic PowerShell code with ease.**

@@ -2,7 +2,7 @@
   "name": "psscriptanalyzer",
   "displayName": "PSScriptAnalyzer for VS Code",
   "description": "A lightweight VS Code extension for deep static code analysis and quality reporting of PowerShell scripts.",
-  "publisher": "YOUR_PUBLISHER_ID",
+  "publisher": "prakash78blog",
   "version": "0.0.1",
   "icon": "ps.png",
   "author": {
